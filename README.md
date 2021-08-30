@@ -15,8 +15,6 @@
   <img align="center" alt="giiiif" height="100" width="100" src="https://media.discordapp.net/attachments/874107689570033734/882008656214917170/ezgif-4-5448fc85f244.gif?width=426&height=416">
 </div>
 
-<div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/sukunadotjpg/sukunadotjpg/blob/output/github-contribution-grid-snake.svg)
 
 
