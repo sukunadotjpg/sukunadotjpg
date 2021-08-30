@@ -1,4 +1,4 @@
-## Ola!👋 Eu sou o Gabriel! 
+## Ola!👋 Eu sou o Gabriel Matos! 
 
 - 🔭 I’m currently working on mercadinho
 - 🌱 I’m currently learning Python
