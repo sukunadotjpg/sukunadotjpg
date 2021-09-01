@@ -17,7 +17,7 @@
 
 <div>
   <h2>My Tools</h2>
-  <img align="center" alt="nvim" height="60" width="60" src="https://camo.githubusercontent.com/67d8d32acb9aa6ef50a036e831334c538cbdb5756d3d42b5bf378212c394c8c7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3231313236322f323233373936332f32336562643565342d396264332d313165332d393136342d3262386165646165393032302e706e67">
+  <img align="center" alt="vim" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png">
   <img align="center" alt="void" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg">
   <img align="center" alt="openbox" height="80" width="80" src="https://wiki.manjaro.org/images/f/fb/Openbox-logo.png">
 </div>
